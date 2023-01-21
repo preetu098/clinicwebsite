@@ -1278,12 +1278,12 @@ $(document).ready(function(){
 <div style="width: 1478px; font-size: 32pt; color:white; height: 602px; display: none; opacity: 0.8;" id="mask"></div>
 </div>
 <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/3624","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"addtoany\/addtoany,classy\/base,classy\/messages,core\/html5shiv,core\/normalize,drbatra\/global-styling,lang_dropdown\/lang-dropdown-form,layout_discovery\/onecol,system\/base,uc_product\/uc_product.styles,uc_product_kit\/uc_product_kit.styles,uc_store\/uc_store.styles,views\/views.module","theme":"drbatra","theme_token":null},"ajaxTrustedUrl":{"\/search\/node":true,"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"lang_dropdown":{"lang-dropdown-form":{"key":"lang-dropdown-form"}},"user":{"uid":0,"permissionsHash":"2969a1a9b123b7aaa281cd96c3f79b558dbfa5a82e9fccde8e4ffd6ec96cfa4e"}}</script>
-<script src="//ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js" type="8cb382f4295ba697db556bcd-text/javascript"></script>
-<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js" type="8cb382f4295ba697db556bcd-text/javascript"></script>
-<script src="//static.addtoany.com/menu/page.js" async type="8cb382f4295ba697db556bcd-text/javascript"></script>
-<script src="/sites/default/files/js/js_2nqL_sJRl5ovEYvdZdvLmmHrOxT4fS-AkpcluiJZyJU.js" type="8cb382f4295ba697db556bcd-text/javascript"></script>
-<script src="/sites/default/files/js/js_Hfyyog3gVXTRtaanSssD_y0GUB8Y0TEN9GXqW_-bkWA.js" type="8cb382f4295ba697db556bcd-text/javascript"></script>
-<script src="/sites/default/files/js/js_rrD_Xr1KWntWjVAsgjN7GbCBBQEysY2hB7V2Pgxrdo4.js" type="8cb382f4295ba697db556bcd-text/javascript"></script>
-<script src="/sites/default/files/js/js_gfKzM5m1YMyEHX_h7unsWuX7NL9UaF5jIMk9wW7Zz_k.js" type="8cb382f4295ba697db556bcd-text/javascript"></script>
-<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="8cb382f4295ba697db556bcd-|49" defer=""></script></body>
+<script src="assets/jquery.min.js" type="8cb382f4295ba697db556bcd-text/javascript"></script>
+<script src="assets/jquery-ui.min.js" type="8cb382f4295ba697db556bcd-text/javascript"></script>
+<script src="assets/page.js" async type="8cb382f4295ba697db556bcd-text/javascript"></script>
+<script src="assets/js_2nqL_sJRl5ovEYvdZdvLmmHrOxT4fS-AkpcluiJZyJU.js" type="8cb382f4295ba697db556bcd-text/javascript"></script>
+<script src="assets/js_Hfyyog3gVXTRtaanSssD_y0GUB8Y0TEN9GXqW_-bkWA.js" type="8cb382f4295ba697db556bcd-text/javascript"></script>
+<script src="assets/js_rrD_Xr1KWntWjVAsgjN7GbCBBQEysY2hB7V2Pgxrdo4.js" type="8cb382f4295ba697db556bcd-text/javascript"></script>
+<script src="assets/js_gfKzM5m1YMyEHX_h7unsWuX7NL9UaF5jIMk9wW7Zz_k.js" type="8cb382f4295ba697db556bcd-text/javascript"></script>
+<script src="assets/rocket-loader.min.js" data-cf-settings="8cb382f4295ba697db556bcd-|49" defer=""></script></body>
 </html>

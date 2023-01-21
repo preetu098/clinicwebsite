@@ -14,7 +14,7 @@
     <link rel="stylesheet" media="all" href="assets/css_U-D-nNFc812x5ibFc5h-B4lGWJHNkvi3fK6yH9p6rlo.css" />
     <link rel="stylesheet" media="all" href="assets/css_-Sw_AESmpSwRDA8aRZ982PHYfWcvYMgMOHyo3pvZebY.css" />
     <link rel="stylesheet" media="all" href="assets/css_q9VzKBTs5EwWAN3bbeP-wkiq-9c00G3zziVWhEpGeh8.css" />
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/bootstrap.min.css" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <style>
@@ -172,7 +172,7 @@ window.addEventListener("scroll", left);
                                                     <div class="hamburger-menu"><span> </span> <span> </span> <span>
                                                         </span></div>
                                                 </div>
-                                                <div><a href="/"><img alt="Dr Batra's Homeopathy clinic" height="35"
+                                                <div><a href="/"><img alt="logo" height="35"
                                                             loading="lazy"
                                                             src="https://www.onlinehomeopathictreatment.com/wp-content/uploads/2016/10/Modern-logo.jpg"
                                                             width="80" /></a></div>
@@ -195,7 +195,7 @@ window.addEventListener("scroll", left);
                                                                                     aria-expanded="false"
                                                                                     class="collapsed"
                                                                                     data-toggle="collapse"
-                                                                                    href="#collapse-1-2"
+                                                                                    href="hair.php"
                                                                                     role="button">Hair</a></div>
                                                                             <!-- <div aria-labelledby="heading-1-2"
                                                                                 class="collapse"
@@ -250,7 +250,7 @@ window.addEventListener("scroll", left);
                                                                                     aria-expanded="false"
                                                                                     class="collapsed"
                                                                                     data-toggle="collapse"
-                                                                                    href="#collapse-1-3"
+                                                                                    href="skin.php"
                                                                                     role="button">Skin</a></div>
                                                                             <!-- <div aria-labelledby="heading-1-3"
                                                                                 class="collapse"
@@ -316,7 +316,7 @@ window.addEventListener("scroll", left);
                                                                                     aria-expanded="false"
                                                                                     class="collapsed"
                                                                                     data-toggle="collapse"
-                                                                                    href="#collapse-1-4"
+                                                                                    href="allergies.php"
                                                                                     role="button">Allergies</a></div>
                                                                             <!-- <div aria-labelledby="heading-1-4"
                                                                                 class="collapse"
@@ -356,7 +356,7 @@ window.addEventListener("scroll", left);
                                                                                     aria-expanded="false"
                                                                                     class="collapsed"
                                                                                     data-toggle="collapse"
-                                                                                    href="#collapse-1-5"
+                                                                                    href="respiratory.php"
                                                                                     role="button">Respiratory</a></div>
                                                                             <!-- <div aria-labelledby="heading-1-5"
                                                                                 class="collapse"
@@ -669,14 +669,14 @@ window.addEventListener("scroll", left);
                                                                     id="collapse-3">
                                                                     <div class="card-body">
                                                                         <div class="card-header"><a
-                                                                                href="https://www.drbatras.com/homeopathy/overview">FAQ</a>
+                                                                                href="faq.php">FAQ</a>
                                                                         </div>
                                                                         <div class="card-header"><a
-                                                                                href="https://www.drbatras.com/homeopathy/arsenic-album-30">Our Ethics</a></div>
+                                                                                href="ourethics.php">Our Ethics</a></div>
                                                                         <div class="card-header"><a
-                                                                                href="https://www.drbatras.com/homeopathy/consulting-doctors">Our Mission</a></div>
+                                                                                href="ourmission.php">Our Mission</a></div>
                                                                         <div class="card-header"><a
-                                                                                href="https://www.drbatras.com/homeopathy/treatment">Blogt</a>
+                                                                                href="blog.php">Blog</a>
                                                                         </div>
                                                                        
                                                                     </div>
@@ -692,13 +692,13 @@ window.addEventListener("scroll", left);
                                                                     id="collapse-2">
                                                                     <div class="card-body">
                                                                         <div class="card-header"><a
-                                                                                href="https://www.drbatras.com/medical-team">Medical
+                                                                                href="medicalteam.php">Medical
                                                                                 Team</a></div>
                                                                         <div class="card-header"><a
-                                                                                href="https://www.drbatras.com/patient-experience">Patient
+                                                                                href="patientexperience.php">Patient
                                                                                 Experience</a></div>
                                                                         <div class="card-header"><a
-                                                                                href="https://www.drbatras.com/medical-innovation-and-technology">Technology</a>
+                                                                                href="technology.php">Technology</a>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -709,17 +709,17 @@ window.addEventListener("scroll", left);
                                                             </div>
                                                             <div class="menu_text">
                                                                 <div class="card-header"><a
-                                                                        href="https://products.drbatras.com"
+                                                                        href="diseases.php"
                                                                         rel="noreferrer" target="_blank">DISEASES</a></div>
                                                             </div>
                                                             <div class="menu_text">
                                                                 <div class="card-header"><a
-                                                                        href="https://www.drbatras.com/homeopathy-treatment-reviews/patient-testimonials">TESTIMONIALS</a>
+                                                                        href="testimonials.php">TESTIMONIALS</a>
                                                                 </div>
                                                             </div>
                                                             <div class="menu_text">
                                                                 <div class="card-header"><a
-                                                                        href="https://www.drbatras.com/blog/all">CONTACTUS</a>
+                                                                        href="contactus.php">CONTACTUS</a>
                                                                 </div>
                                                             </div>
                                                             <!-- <div class="menu_text">
@@ -794,7 +794,7 @@ window.addEventListener("scroll", left);
                                                         <li class="nav-item dropdown treatment-menu"><a aria-expanded="false"
                                                             aria-haspopup="true" class="nav-link dropdown-toggle"
                                                             data-toggle="dropdown"
-                                                            href="https://www.drbatras.com/homeopathy/overview"
+                                                            href=""
                                                             id="navbarDropdown" role="button">HOMEOPATHY</a>
                                                             <div aria-labelledby="navbarDropdown0"
                                                                 class="dropdown-menu treat-drop">
@@ -804,22 +804,22 @@ window.addEventListener("scroll", left);
                                                                             <ul class="nav flex-column">
                                                                                 <li class="nav-item"
                                                                                     data-menu-tab="menutab-1"><a
-                                                                                        class="nav-link">FAQ</a>
+                                                                                        class="nav-link" href="faq.php">FAQ</a>
                                                                                     
                                                                                 </li>
                                                                                 <li class="nav-item"
                                                                                     data-menu-tab="menutab-2"><a
-                                                                                        class="nav-link">Our Ethics</a>
+                                                                                        class="nav-link" href="ourethics.php">Our Ethics</a>
                                                                                     
                                                                                 </li>
                                                                                 <li class="nav-item"
                                                                                     data-menu-tab="menutab-3"><a
-                                                                                        class="nav-link">Our Mission</a>
+                                                                                        class="nav-link" href="ourmission.php">Our Mission</a>
                                                                                     
                                                                                 </li>
                                                                                 <li class="nav-item"
                                                                                 data-menu-tab="menutab-3"><a
-                                                                                    class="nav-link">Blog</a>
+                                                                                    class="nav-link" href="blog.php">Blog</a>
                                                                                     
                                                                                 </li>
                                                                                 
@@ -860,15 +860,15 @@ window.addEventListener("scroll", left);
                                                         </li>
                                                        
                                                         <li class="nav-item dropdown"><a aria-expanded="false"
-                                                                aria-haspopup="true" class="nav-link dropdown-toggle"
-                                                                data-toggle="dropdown" href="starttreatment.php" id="navbarDropdown1"
-                                                                role="button">START TREATMENT</a>
+                                                                aria-haspopup="true" class="nav-link"
+                                                         href="starttreatment.php" 
+                                                              >START TREATMENT</a>
                                                             
                                                         </li>
                                                         <li class="nav-item dropdown treatment-menu"><a aria-expanded="false"
                                                             aria-haspopup="true" class="nav-link dropdown-toggle"
                                                             data-toggle="dropdown"
-                                                            href="https://www.drbatras.com/homeopathy/overview"
+                                                            href=""
                                                             id="navbarDropdown" role="button">TREATMENT PLAN</a>
                                                             <div aria-labelledby="navbarDropdown0"
                                                                 class="dropdown-menu treat-drop">
@@ -878,22 +878,22 @@ window.addEventListener("scroll", left);
                                                                             <ul class="nav flex-column">
                                                                                 <li class="nav-item"
                                                                                     data-menu-tab="menutab-1"><a
-                                                                                        class="nav-link">Hair Treatment</a>
+                                                                                        class="nav-link" href="hair.php">Hair Treatment</a>
                                                                                     
                                                                                 </li>
                                                                                 <li class="nav-item"
                                                                                     data-menu-tab="menutab-2"><a
-                                                                                        class="nav-link">Skin</a>
+                                                                                        class="nav-link" href="skin.php">Skin</a>
                                                                                     
                                                                                 </li>
                                                                                 <li class="nav-item"
                                                                                     data-menu-tab="menutab-3"><a
-                                                                                        class="nav-link">Allergies</a>
+                                                                                        class="nav-link" href="allergies.php">Allergies</a>
                                                                                     
                                                                                 </li>
                                                                                 <li class="nav-item"
                                                                                 data-menu-tab="menutab-4"><a
-                                                                                    class="nav-link">Respiratory</a>
+                                                                                    class="nav-link" href="respiratory.php">Respiratory</a>
                                                                                     
                                                                                 </li>
                                                                                 
