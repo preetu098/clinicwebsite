@@ -115,11 +115,7 @@ window.addEventListener("scroll", left);
 		loadJs("https://www.kenyt.ai/botapp/ChatbotUI/dist/js/bot-loader.js");
 	},8000); 
   </script> -->
-
-  
-  swqdwedwedqwedewdedewewfeeferrferfe
-  
-    <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+ <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
         <header >
             <div class="region region-header" >
                 <div class="region region-header-top" style="background-color: #000080;">
