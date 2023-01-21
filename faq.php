@@ -46,25 +46,25 @@
 <div class="accordianHeading active">
 <h3 style="font-size:20px;font-family:Sans-serif">What is homoeopathy and how is it different than other modes of treatments?</h3>
 </div>
-<div class="accordinContent" style="font-size:20px;font-family:Sans-serif">
+<div class="accordinContent" style="font-size:17px;font-family:Sans-serif">
 Homeopathy is a system of remedy located in Germany in 1794 and currently in practice in over 100 international locations, together with all states in the united states, all of Europe, Australia, most Asian international locations, middle and far-East, and Africa. It’s distinct from the traditional medication (also known as as allopathy) in a few methods. Truly, homeopathy believes in treating the sufferer as a entire, in totality, rather than treating the sickness in constituents. Also, the homeopathic medicines are in the potentized type, which is like nano-particles, which makes the restoration of the ailment mighty but safe.
 </div>
 <div class="accordianHeading active">
 <h3 style="font-size:20px;font-family:Sans-serif">Why do you recommend homoeopathy</h3>
 </div>
-<div class="accordinContent" style="font-size:20px;font-family:Sans-serif">Homeopathy is recommended considering the fact that it treats, specially the chronic diseases, at a deeper degree giving lasting relief as in comparison with the conventional drug treatments which offers transitory remedy in most chronic ailments.</div>
+<div class="accordinContent" style="font-size:17px;font-family:Sans-serif">Homeopathy is recommended considering the fact that it treats, specially the chronic diseases, at a deeper degree giving lasting relief as in comparison with the conventional drug treatments which offers transitory remedy in most chronic ailments.</div>
 <div class="accordianHeading active">
 <h3 style="font-size:20px;font-family:Sans-serif">Which diseases are treated well with homeopathy?</h3>
 </div>
-<div class="accordinContent" style="font-size:20px;font-family:Sans-serif">Homeopathy is extra strong for chronic and habitual ailments comparable to allergic reactions, arthritis, auto-immune ailments, dermis ailments, persistent infections, muscular diseases, metabolic diseases, psycho-somatic diseases, and so on. To name some of the enormous quantities of illnesses the place homeopathy might prove amazing: allergies, rheumatoid arthritis, psoriasis, vitiligo, lichen planus, urticaria, migraine, sinusitis, everyday colds, autism, ankylosing spondylitis, IBS, ulcerative colitis, hepatitis c, ADHD, underactive thyroid, psoriatic arthritis, Chalazion, nervousness disorders, despair, GERD, hair loss, trigeminal neuralgia, and plenty of more. Please click on right here to see a bigger list of illnesses.</div>
+<div class="accordinContent" style="font-size:17px;font-family:Sans-serif">Homeopathy is extra strong for chronic and habitual ailments comparable to allergic reactions, arthritis, auto-immune ailments, dermis ailments, persistent infections, muscular diseases, metabolic diseases, psycho-somatic diseases, and so on. To name some of the enormous quantities of illnesses the place homeopathy might prove amazing: allergies, rheumatoid arthritis, psoriasis, vitiligo, lichen planus, urticaria, migraine, sinusitis, everyday colds, autism, ankylosing spondylitis, IBS, ulcerative colitis, hepatitis c, ADHD, underactive thyroid, psoriatic arthritis, Chalazion, nervousness disorders, despair, GERD, hair loss, trigeminal neuralgia, and plenty of more. Please click on right here to see a bigger list of illnesses.</div>
 <div class="accordianHeading active">
 <h3 style="font-size:20px;font-family:Sans-serif">How do i know if homoeopathy can aid my diseaseas?</h3>
 </div>
-<div class="accordinContent" style="font-size:20px;font-family:Sans-serif">A well-certified and skilled homeopathic medical professional can make a decision if your sickness may also be helped with homeopathy or now not. Pease discover this web page to look the list of diseases, which may also be helped using homeopathy. Please additionally explore Dr Rajesh Shah’s videos. Also, that you could send us email or chat with our doctors on-line at existence force for getting an concept if your disease is treatable utilizing homeopathy or not.</div>
+<div class="accordinContent" style="font-size:17px;font-family:Sans-serif">A well-certified and skilled homeopathic medical professional can make a decision if your sickness may also be helped with homeopathy or now not. Pease discover this web page to look the list of diseases, which may also be helped using homeopathy. Please additionally explore Dr Rajesh Shah’s videos. Also, that you could send us email or chat with our doctors on-line at existence force for getting an concept if your disease is treatable utilizing homeopathy or not.</div>
 <div class="accordianHeading active">
 <h3 style="font-size:20px;font-family:Sans-serif">is homoeopathy slow to act?</h3>
 </div>
-<div class="accordinContent" style="font-size:20px;font-family:Sans-serif">Homeopathy is moderately gradual to act commonly, if now not invariably, as compared to chemical based convention medicines.</div>
+<div class="accordinContent" style="font-size:17px;font-family:Sans-serif">Homeopathy is moderately gradual to act commonly, if now not invariably, as compared to chemical based convention medicines.</div>
 
 </div>
 </article>
