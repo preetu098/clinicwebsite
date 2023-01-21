@@ -44,7 +44,7 @@
 <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><h1>Homeopathy - FAQ's</h1>
 <div class="accordianWrapper">
 <div class="accordianHeading active">
-<h3>What is homoeopathy and how is it different than other modes of treatments?</h3>
+<h3 style="font-size:20px;">What is homoeopathy and how is it different than other modes of treatments?</h3>
 </div>
 <div class="accordinContent">
 Homeopathy is a system of remedy located in Germany in 1794 and currently in practice in over 100 international locations, together with all states in the united states, all of Europe, Australia, most Asian international locations, middle and far-East, and Africa. It’s distinct from the traditional medication (also known as as allopathy) in a few methods. Truly, homeopathy believes in treating the sufferer as a entire, in totality, rather than treating the sickness in constituents. Also, the homeopathic medicines are in the potentized type, which is like nano-particles, which makes the restoration of the ailment mighty but safe.
