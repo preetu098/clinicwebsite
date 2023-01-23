@@ -68,7 +68,7 @@
                                                                 </div>
                                                                 <div
                                                                     class="col-lg-3 col-xl-3 col-sm-12 col-md-6 text-left tools">
-                                                                    <p><b>Why Dr Batra's™</b></p>
+                                                                    <p><b>Why Modern homoeopathy</b></p>
                                                                     <ul>
                                                                         <li><a href="https://www.drbatras.com/group-companies"
                                                                                 rel="noreferrer" target="_blank">Group
@@ -139,33 +139,29 @@
                                                                 </div>
                                                                 <div
                                                                     class="col-lg-3 col-xl-3 col-sm-12 col-md-6 text-left tools">
-                                                                    <p><b>Work with us</b></p>
+                                                                    <p><b>Address</b></p>
                                                                     <ul>
-                                                                        <li><a href="https://www.drbatras.com/work-with-us/why-dr-batras"
-                                                                                rel="noreferrer" target="_blank">Why Dr
-                                                                                Batra’s™ </a></li>
-                                                                        <li><a href="https://www.drbatras.com/work-with-us/why-be-dr-at-dr-batras"
-                                                                                rel="noreferrer" target="_blank">Doctors
-                                                                                @ Dr Batra’s™</a></li>
-                                                                        <li><a href="https://www.drbatras.com/work-with-us/employee-friendly"
+                                                                        <li><a href=""
+                                                                                rel="noreferrer" target="_blank">Our Centres HO- 121 Orbit Mall Indore-452010</a></li>
+                                                                        <li><a href=""
+                                                                                rel="noreferrer" target="_blank">Phone Numbers- +919770799998 (Whatsapp)</a></li>
+                                                                        <li><a href=""
                                                                                 rel="noreferrer"
-                                                                                target="_blank">Employee Friendly</a>
+                                                                                target="_blank">9575514473 Branch- 202, Business Island</a>
                                                                         </li>
-                                                                        <li><a href="https://www.drbatras.com/work-with-us/job-opportunities"
-                                                                                rel="noreferrer" target="_blank">Job
-                                                                                Opportunities</a></li>
+                                                                        <li><a href=""
+                                                                                rel="noreferrer" target="_blank">Nipaniya Indore-452010 </a></li>
                                                                     </ul>
                                                                 </div>
                                                                 <div
                                                                     class="col-lg-3 col-xl-3 col-sm-12 col-md-6 text-left tools">
-                                                                    <p><b>Support</b></p>
+                                                                    <p><b></b></p>
                                                                     <ul>
-                                                                        <li><a href="https://www.drbatras.com/patient-support"
-                                                                                rel="noreferrer" target="_blank">Patient
-                                                                                Support</a></li>
-                                                                        <li><a href="https://www.drbatras.com/patient-feedback"
+                                                                        <li><a href=""
+                                                                                rel="noreferrer" target="_blank">Phone Numbers- +919770799998 (Whatsapp), 9575514473</a></li>
+                                                                        <li><a href=""
                                                                                 rel="noreferrer"
-                                                                                target="_blank">Customer Feedback</a>
+                                                                                target="_blank">mhomeo@yahoo.com</a>
                                                                         </li>
                                                                     </ul>
                                                                 </div>
@@ -579,7 +575,7 @@
                                         <div class="container">
                                             <div class="row">
                                                 <div class="col-xs-12 col-sm-6">
-                                                    <div class="component-footer-second-dark-grey-content">©Dr Batra's -
+                                                    <div class="component-footer-second-dark-grey-content">©Modern Homeopathy -
                                                         All rights reserved</div>
                                                 </div>
                                                 <div class="col-xs-12 col-sm-6 col-md-6 pull-right">
