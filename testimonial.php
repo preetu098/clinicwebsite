@@ -105,6 +105,32 @@
 <hr>
 <section>
     <div class="container">
+        <div class="row">
+            <div class="col-lg-3">
+                
+            </div>
+            <div class="col-lg-3">
+
+            </div>
+            <div class="col-lg-3">
+
+            </div>
+            <div class="col-lg-3">
+
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
+
+
+
+<hr>
+<section>
+    <div class="container">
         <div class="text-center">
             <h1 style="font-size:30px!important;">Testimonial</h1>
         </div>
@@ -193,5 +219,6 @@
         </div>
     </div>
 </section>
+
 
 <?php include('footer.php');?>
