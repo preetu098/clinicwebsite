@@ -193,61 +193,30 @@
         <div class="carousel-item active">
           <div class="cards-wrapper">
             <div class="card">
-              <img src="..." class="card-img-top" alt="...">
+              <img src="assets/pa1.jpg" style="height:200px;width:400px" class="card-img-top" alt="...">
               <div class="card-body">
-                <h5 class="card-title">Card title</h5>
+              <h3 class="card-title">After And Before</h3>
                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
                   card's content.</p>
-                <a href="#" class="btn btn-primary">Go somewhere</a>
+             
               </div>
             </div>
             <div class="card">
-              <img src="..." class="card-img-top" alt="...">
+            <img src="assets/pa2.jpg" style="height:200px;width:400px" class="card-img-top" alt="...">
               <div class="card-body">
-                <h5 class="card-title">Card title</h5>
+              <h3 class="card-title">After And Before</h3>
                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
                   card's content.</p>
-                <a href="#" class="btn btn-primary">Go somewhere</a>
+               
               </div>
             </div>
             <div class="card">
-              <img src="..." class="card-img-top" alt="...">
+            <img src="assets/pa3.jpg" style="height:200px;width:400px" class="card-img-top" alt="...">
               <div class="card-body">
-                <h5 class="card-title">Card title</h5>
+              <h3 class="card-title">After And Before</h3>
                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
                   card's content.</p>
-                <a href="#" class="btn btn-primary">Go somewhere</a>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="carousel-item">
-          <div class="cards-wrapper">
-            <div class="card">
-              <img src="..." class="card-img-top" alt="...">
-              <div class="card-body">
-                <h5 class="card-title">Card title</h5>
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
-                  card's content.</p>
-                <a href="#" class="btn btn-primary">Go somewhere</a>
-              </div>
-            </div>
-            <div class="card">
-              <img src="..." class="card-img-top" alt="...">
-              <div class="card-body">
-                <h5 class="card-title">Card title</h5>
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
-                  card's content.</p>
-                <a href="#" class="btn btn-primary">Go somewhere</a>
-              </div>
-            </div>
-            <div class="card">
-              <img src="..." class="card-img-top" alt="...">
-              <div class="card-body">
-                <h5 class="card-title">Card title</h5>
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
-                  card's content.</p>
-                <a href="#" class="btn btn-primary">Go somewhere</a>
+              
               </div>
             </div>
           </div>
@@ -255,41 +224,72 @@
         <div class="carousel-item">
           <div class="cards-wrapper">
             <div class="card">
-              <img src="..." class="card-img-top" alt="...">
+            <img src="assets/pa4.jpg" style="height:200px;width:400px" class="card-img-top" alt="...">
               <div class="card-body">
-                <h5 class="card-title">Card title</h5>
+              <h3 class="card-title">After And Before</h3>
                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
                   card's content.</p>
-                <a href="#" class="btn btn-primary">Go somewhere</a>
+                
               </div>
             </div>
             <div class="card">
-              <img src="..." class="card-img-top" alt="...">
+            <img src="assets/pa5.jpg" style="height:200px;width:400px" class="card-img-top" alt="...">
               <div class="card-body">
-                <h5 class="card-title">Card title</h5>
+              <h3 class="card-title">After And Before</h3>
                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
                   card's content.</p>
-                <a href="#" class="btn btn-primary">Go somewhere</a>
+                
               </div>
             </div>
             <div class="card">
-              <img src="..." class="card-img-top" alt="...">
+            <img src="assets/pa6.jpg" style="height:200px;width:400px" class="card-img-top" alt="...">
               <div class="card-body">
-                <h5 class="card-title">Card title</h5>
+              <h3 class="card-title">After And Before</h3>
                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
                   card's content.</p>
-                <a href="#" class="btn btn-primary">Go somewhere</a>
+                
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <div class="cards-wrapper">
+            <div class="card">
+            <img src="assets/pa1.jpg" style="height:200px;width:400px" class="card-img-top" alt="...">
+              <div class="card-body">
+              <h3 class="card-title">After And Before</h3>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
+                  card's content.</p>
+              
+              </div>
+            </div>
+            <div class="card">
+            <img src="assets/pa1.jpg" style="height:200px;width:400px" class="card-img-top" alt="...">
+              <div class="card-body">
+              <h3 class="card-title">After And Before</h3>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
+                  card's content.</p>
+               
+              </div>
+            </div>
+            <div class="card">
+            <img src="assets/pa1.jpg" style="height:200px;width:400px" class="card-img-top" alt="...">
+              <div class="card-body">
+              <h3 class="card-title">After And Before</h3>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
+                  card's content.</p>
+              
               </div>
             </div>
           </div>
         </div>
       </div>
       <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <!-- <span class="carousel-control-prev-icon" aria-hidden="true"></span> -->
         <span class="sr-only">Previous</span>
       </a>
       <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <!-- <span class="carousel-control-next-icon" aria-hidden="true"></span> -->
         <span class="sr-only">Next</span>
       </a>
     </div>
