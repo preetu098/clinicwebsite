@@ -284,16 +284,76 @@
           </div>
         </div>
       </div>
-      <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-        <!-- <span class="carousel-control-prev-icon" aria-hidden="true"></span> -->
+      <!-- <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
         <span class="sr-only">Previous</span>
       </a>
       <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-        <!-- <span class="carousel-control-next-icon" aria-hidden="true"></span> -->
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
         <span class="sr-only">Next</span>
-      </a>
+      </a> -->
     </div>
   </div>
+</section>
+<section class="mt-5">
+  
+    <div class="container-fluid">
+      <div class="text-center">
+        <h1 class="mt-5 mb-5">We are available</h1>
+      </div>
+      <div class="row">
+        <div class="col-lg-2 col-6">
+       
+        <div class="card" style="background-color:transparent;border:2px solid orange;box-shadow:0px 0px 0px 0px">
+           <div class="text-center">
+           <i class="fa fa-question-circle-o mt-5 mb-1" aria-hidden="true" style="font-size:40px;color:#003060"></i>
+           <h1 class="mt-3 mb-3">Questions</h1>
+           </div>
+        </div>
+        </div>
+       
+        <div class="col-lg-2 col-6">
+        <div class="card" style="background-color:transparent;border:2px solid orange;box-shadow:0px 0px 0px 0px">
+            <div class="text-center">
+            <i class="fa fa-phone-square mt-5 mb-1" aria-hidden="true" style="font-size:40px;color:#003060"></i>
+            <h1 class="mt-3 mb-3">Contact Us</h1>
+            </div>
+        </div>
+        </div>
+        <div class="col-lg-2 col-6">
+        <div class="card" style="background-color:transparent;border:2px solid orange;box-shadow:0px 0px 0px 0px">
+            <div class="text-center">
+            <i class="fa fa-search mt-5 mb-1" aria-hidden="true" style="font-size:40px;color:#003060"></i>
+            <h1 class="mt-3 mb-3">Find</h1>
+            </div>
+        </div>
+        </div>  
+        <div class="col-lg-2 col-6">
+        <div class="card" style="background-color:transparent;border:2px solid orange;box-shadow:0px 0px 0px 0px">
+           <div class="text-center">
+           <i class="fa fa-book mt-5 mb-1" aria-hidden="true" style="font-size:40px;color:#003060"></i>
+           <h1 class="mt-3 mb-3">Book</h1>
+           </div>
+        </div>
+        </div>
+        <div class="col-lg-2 col-6">
+        <div class="card" style="background-color:transparent;border:2px solid orange;box-shadow:0px 0px 0px 0px">
+           <div class="text-center">
+           <i class="fa fa-user mt-5 mb-1" aria-hidden="true" style="font-size:40px;color:#003060"></i>
+           <h1 class="mt-3 mb-3">About Modern</h1>
+           </div>
+        </div>
+        </div>
+        <div class="col-lg-2 col-6">
+        <div class="card" style="background-color:transparent;border:2px solid orange;box-shadow:0px 0px 0px 0px">
+        <div class="text-center">
+        <i class="fa fa-plus mt-5 mb-1" aria-hidden="true" style="font-size:40px;color:#003060"></i>
+        <h1 class="mt-3 mb-3">Treatment</h1>
+           </div>
+        </div>
+        </div>
+      </div>
+    </div>
 </section>
 
 <?php include('footer.php');?>
